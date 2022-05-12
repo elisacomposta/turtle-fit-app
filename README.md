@@ -1,4 +1,4 @@
-_Simple activity tracker Android app, realized in 2020._
+_Simple activity tracker Android app, realized in 2021._
 # TurtleFit
 
 
